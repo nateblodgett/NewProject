@@ -1,7 +1,7 @@
 var consts             = new Object();
 
 
-consts.var1       = 'a';
+consts.var1       = 'a5';
 consts.var2       = 'bb';
 consts.var3       = 'ccc';
 consts.var4       = 'dd';
