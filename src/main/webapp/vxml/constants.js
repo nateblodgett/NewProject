@@ -6,4 +6,4 @@ consts.var2       = 'bb';
 consts.var3       = 'ccc5';
 consts.var4       = 'dd';
 
-consts.var5       = 'eeee';
+consts.var5       = 'eeee5';
